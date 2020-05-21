@@ -1,0 +1,5 @@
+2020-05-19 15:24:28,306 INFO [root] [__init__.py(<module>:9)] - 测试日志是否会打印！
+2020-05-19 15:24:29,209 INFO [root] [test_ihrm_employee_params.py(test01_login:32)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3ff6037a-ad6f-423d-ac9d-8598ddc66bc5'}
+2020-05-19 15:24:29,209 INFO [root] [test_ihrm_employee_params.py(test01_login:39)] - 保存到全局变量app中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 3ff6037a-ad6f-423d-ac9d-8598ddc66bc5'}
+2020-05-19 15:24:29,409 INFO [root] [test_ihrm_employee_params.py(test02_add_emp:47)] - 添加员工的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1262645360824680448'}}
+2020-05-19 15:24:29,716 INFO [root] [test_ihrm_employee_params.py(test05_delete_emp:78)] - 删除的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}

@@ -1,0 +1,8 @@
+{
+  "add_emp": {"username": "笑笑笑","mobile": "12222299999","http_code": 200,
+  "success": true,"code": 10000,"message": "操作成功"},
+  "query_emp": {"http_code": 200, "success": true,"code": 10000,"message": "操作成功"},
+  "modify_emp": {"username": "难难难难",
+  "http_code": 200, "success": true,"code": 10000,"message": "操作成功"},
+  "delete_emp": {"http_code": 200, "success": true,"code": 10000,"message": "操作成功"}
+}
